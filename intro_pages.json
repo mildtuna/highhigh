@@ -1,0 +1,39 @@
+
+{
+	"소화 갤러리":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/gallery_intro.jpg",
+		"title":"갤러리소개",
+		"explain":"소화갤러리입니다."
+	},
+
+	"민화교실":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/class_noti.jpg",
+		"title":"민화배우기",
+		"explain":"민화교실입니다."
+	},
+
+	"작품":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/moran.jpg",
+		"title":"작품",
+		"explain":"작품입니다."
+	},
+
+	"화조도":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/whajo.jpg",
+		"title":"화조도",
+		"explain":"화조도입니다."
+	},
+
+	"연화도":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/yunwha.jpg",
+		"title":"연화도",
+		"explain":"연화도입니다."
+	},
+
+	"오시는 길":{
+		"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/direction.jpg",
+		"title":"길 안내",
+		"explain":"오시는 길 입니다."
+	}
+
+}
