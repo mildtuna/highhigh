@@ -17,32 +17,32 @@
 		"title":"민화배우기",
 		"explain":"민화교실입니다 민화교실입니다 민교실입니다 민화교실입니다 민화교실입니다 민화교실입니다"
 	},
-
+	
 	"작품":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/moran.jpg",
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/frame.jpg",
 			"overlay_txt":"작품 오버레이입니다"
 		},
 		"title":"작품",
 		"explain":"작품입니다"
 	},
 
-	"화조도":{
+	"족자":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/whajo.jpg",
-			"overlay_txt":"화조도 오버레이입니다 화조도 오베레이입니다 화조도 오버레이입니다 화조도 오버레이입니다"
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/sroll.jpg",
+			"overlay_txt":"족자 오버레이입니다 족자 오베레이입니다 족자오버레이입니다 족자 오버레이입니다"
 		},
-		"title":"화조도",
-		"explain":"화조도입니다"
+		"title":"족자",
+		"explain":"족자입니다입니다"
 	},
 
-	"연화도":{
+	"공예품":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/yunwha.jpg",
-			"overlay_txt":"연화도 오버레이입니다"
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/folkcraft.jpg",
+			"overlay_txt":"공예품 오버레이입니다"
 		},
-		"title":"연화도",
-		"explain":"연화도입니다"
+		"title":"공예품",
+		"explain":"공예품입니다"
 	},
 
 	"오시는 길":{
