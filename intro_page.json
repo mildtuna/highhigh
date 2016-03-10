@@ -1,0 +1,59 @@
+
+
+{
+	"소화 갤러리":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/gallery_intro.jpg",
+			"overlay_txt":"소화갤러리 오버레이입니다"
+		},
+		"title":"갤러리소개",
+		"explain":"소화갤러리입니다"
+	},
+
+	"민화교실":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/class_noti.jpg",
+			"overlay_txt":"민화교실 오버레이입니다"
+		},
+		"title":"민화배우기",
+		"explain":"민화교실입니다 민화교실입니다 민교실입니다 민화교실입니다 민화교실입니다 민화교실입니다"
+	},
+	
+	"작품":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/frame.jpg",
+			"overlay_txt":"작품 오버레이입니다"
+		},
+		"title":"작품",
+		"explain":"작품입니다"
+	},
+
+	"족자":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/scroll.jpg",
+			"overlay_txt":"족자 오버레이입니다 족자 오베레이입니다 족자오버레이입니다 족자 오버레이입니다"
+		},
+		"title":"족자",
+		"explain":"족자입니다입니다"
+	},
+
+	"공예품":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/folkcraft.jpg",
+			"overlay_txt":"공예품 오버레이입니다"
+		},
+		"title":"공예품",
+		"explain":"공예품입니다"
+	},
+
+	"오시는 길":{
+		"img":{
+			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/direction.jpg",
+			"overlay_txt":"오시는 길 오버레이입니다"
+		},
+		"title":"길 안내",
+		"explain":"오시는 길 입니다"
+	}
+	
+	
+}
