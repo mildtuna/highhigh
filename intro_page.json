@@ -4,7 +4,7 @@
 	"갤러리 소개":{
 		"img":{
 			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/01/gallery_intro.jpg",
-			"overlay_txt":"김유정문학촌 내의 민화 갤러리"
+			"overlay_txt":"김유정문학촌 민화 갤러리"
 		},
 		"title":"소화갤러리 소개",
 		"explain":"갤러리 연혁 및 안내"
@@ -25,7 +25,7 @@
 			"overlay_txt":"매주 화,목 소화갤러리 1층"
 		},
 		"title":"민화배우기",
-		"explain":"작가님과 함께하는 민화수업"
+		"explain":"민화수업 상세 안내"
 	},
 
 	"전시안내":{
@@ -40,7 +40,7 @@
 	"작가 소개":{
 		"img":{
 			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/folkcraft.jpg",
-			"overlay_txt":"이양순 작가님"
+			"overlay_txt":"소화 이양순 작가님"
 		},
 		"title":"작가소개",
 		"explain":"작가 연혁 및 작가님 말씀"
