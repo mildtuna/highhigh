@@ -3,7 +3,7 @@
 {
 	"갤러리 소개":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/gallery.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/gallery.jpg",
 			"overlay_txt":"김유정문학촌 민화 갤러리"
 		},
 		"title":"소화갤러리 소개",
@@ -12,7 +12,7 @@
 
 	"액자":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/artwork.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/artwork.jpg",
 			"overlay_txt":"민화 액자 작품"
 		},
 		"title":"작품",
@@ -21,7 +21,7 @@
 	
 	"수업알림":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/class.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/class.jpg",
 			"overlay_txt":"매주 화,목 소화갤러리 1층"
 		},
 		"title":"민화배우기",
@@ -30,7 +30,7 @@
 
 	"전시안내":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/exhibition-1.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/exhibition-1.jpg",
 			"overlay_txt":"상시전시, 기획전시"
 		},
 		"title":"전시안내",
@@ -39,7 +39,7 @@
 
 	"작가 소개":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/author.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/author.jpg",
 			"overlay_txt":"소화 이양순 작가님"
 		},
 		"title":"작가소개",
@@ -48,7 +48,7 @@
 
 	"담소마당":{
 		"img":{
-			"img_url":"http://localhost/wordpress/wp-content/uploads/2016/03/visitor.jpg",
+			"img_url":"/wordpress/wp-content/uploads/2016/03/visitor.jpg",
 			"overlay_txt":"담소 및 문의"
 		},
 		"title":"담소마당",
