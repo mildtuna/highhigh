@@ -4,7 +4,7 @@
 	"갤러리 소개":{
 		"img":{
 			"img_url":"/wordpress/wp-content/uploads/2016/05/gallery.jpg",
-			"overlay_txt":"김유정문학촌 민화 갤러리"
+			"overlay_txt":"김유정문학촌 금병산 민화 갤러리"
 		},
 		"title":"소화갤러리 소개",
 		"explain":"갤러리 연혁 및 안내"
@@ -13,7 +13,7 @@
 	"전통민화":{
 		"img":{
 			"img_url":"/wordpress/wp-content/uploads/2016/05/artwork.jpg",
-			"overlay_txt":"전통 민화 작품"
+			"overlay_txt":"전통민화 작품"
 		},
 		"title":"작품",
 		"explain":"소화갤러리의 모든 민화 작품"
@@ -22,7 +22,7 @@
 	"수업알림":{
 		"img":{
 			"img_url":"/wordpress/wp-content/uploads/2016/05/class.jpg",
-			"overlay_txt":"매주 화,목,금 소화갤러리 1층"
+			"overlay_txt":"매주 화,수,금 소화갤러리 1층"
 		},
 		"title":"민화배우기",
 		"explain":"민화수업 상세 안내"
@@ -43,7 +43,7 @@
 			"overlay_txt":"소화 이양순 작가님"
 		},
 		"title":"작가소개",
-		"explain":"작가 연혁 및 작가님 말씀"
+		"explain":"작가님 인사말 및 연혁"
 	},
 
 	"담소마당":{
